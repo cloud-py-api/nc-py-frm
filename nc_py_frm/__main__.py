@@ -1,5 +1,5 @@
 """
-Cloud_Py_Api self install module.
+Cloud_Py_Api Python Framework module.
 """
 
 if __name__ == "__main__":

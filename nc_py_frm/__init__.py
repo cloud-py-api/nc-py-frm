@@ -1,5 +1,5 @@
 """
-Import all possible stuff that can be used in `nc-py-frm`
+Import all possible public stuff
 """
 
 from ._version import __version__
